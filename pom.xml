@@ -8,7 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pe.com.bank.euraka.server</groupId>
+	<groupId>pe.com.bank.eureka.server</groupId>
 	<artifactId>eureka-server-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka-server-service</name>
